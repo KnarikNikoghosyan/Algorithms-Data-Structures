@@ -9,5 +9,5 @@ class Solution:
 res = Solution()
 a = 1
 b = 2
-print(solution.getSum(a, b))
+print(res.getSum(a, b))
 # time limit exceeded
